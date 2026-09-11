@@ -1,6 +1,6 @@
 # Marcos García
 
-Data analyst. I spend most of my time in SQL, Power BI, and increasingly Python.
+Data analyst/Technical Consultant. I spend most of my time in SQL, Power BI, and increasingly Python.
 
 What I actually care about: getting the metric definition right before anyone builds a
 chart on top of it. Most "the dashboard is wrong" tickets are really "we never agreed
