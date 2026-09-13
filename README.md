@@ -47,4 +47,4 @@ rather than in a certificate — turismo-rd is where that shows.
 
 ### Elsewhere
 
-- LinkedIn — [linkedin.com/in/marcos-garcía-4a5786245](https://www.linkedin.com/in/marcos-garc%C3%ADa-4a5786245/)
+- [LinkedIn](https://www.linkedin.com/in/marcos-garc%C3%ADa-4a5786245/)
