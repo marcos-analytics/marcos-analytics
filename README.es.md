@@ -45,4 +45,4 @@ Javascript y XML para manipulacion de datos
 
 ### Redes Sociales
 
-- [Linkedin](https://www.linkedin.com/in/marcos-garc%C3%ADa-4a5786245/)
+- [Linkedin](www.linkedin.com/in/marcos-garcía0)
