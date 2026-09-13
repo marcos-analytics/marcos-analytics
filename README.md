@@ -43,4 +43,4 @@ Javascript, and XML for data manipulation.
 
 ### Social Media:
 
-- [LinkedIn](https://www.linkedin.com/in/marcos-garc%C3%ADa-4a5786245/)
+- [LinkedIn](www.linkedin.com/in/marcos-garcía0)
