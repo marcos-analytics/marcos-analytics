@@ -34,8 +34,10 @@ silencio.
 
 ### Trabajo con
 
-`SQL` (Postgres, T-SQL) · `Power BI` / DAX · `Python` (pandas, DuckDB) · `dbt` · `Excel`
-— en orden honesto, lo más fuerte primero.
+- `SQL` (MS SQL Server, T-SQL) 
+- `Power BI` / DAX
+- `Python` (pandas, DuckDB)
+- `Excel` (Formulas,Pivot Tables, KPIs)
 
 ### Aprendiendo ahora
 
