@@ -38,7 +38,6 @@ as a hypothesis.
 ### Working with
 
 `SQL` (MS SQL Server, T-SQL) · `Power BI` / DAX · `Python` (pandas, DuckDB) · `dbt` · `Excel`
-— the honest ordering, strongest first.
 
 ### Currently learning
 
